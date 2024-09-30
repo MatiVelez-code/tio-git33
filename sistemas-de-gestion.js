@@ -1,8 +1,3 @@
-
-//archivo con cambio
-//cambio dos
-// archivo modificado
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
+
+    <div>sistemas de gestion</div>
     
 </body>
 </html>
